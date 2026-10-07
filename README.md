@@ -16,26 +16,20 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A11CB,50:C471ED,100:6A11CB&height=2&section=header" width="100%" />
+<p align="center"><img src="./chain-divider.svg" width="100%" alt="" /></p>
 
 <!-- ═══════════════════════════  SOBRE MÍ  ═══════════════════════════ -->
 ## Sobre mí
 
 Ingeniera en Sistemas Computacionales (UNITEC) enfocada en **desarrollo backend con .NET** y aplicaciones **full stack**. Me gusta construir APIs bien estructuradas, diseñar bases de datos sólidas y explorar cómo **blockchain** puede aportar integridad y trazabilidad a los sistemas.
 
-```js
-const sahory = {
-  rol:        "Desarrolladora de Software",
-  enfoque:    ["Backend .NET", "Full Stack", "Blockchain & Web3", "Arquitectura de Software"],
-  trabajando: "APIs REST con ASP.NET Core y SQL Server",
-  aprendiendo:"Arquitectura limpia y patrones de diseño en .NET",
-  filosofia:  "Construir. Aprender. Mejorar. Repetir."
-};
-```
+<p align="center">
+  <img src="./terminal.svg" width="100%" alt="Terminal animada: whoami, stack y filosofía" />
+</p>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A11CB,50:C471ED,100:6A11CB&height=2&section=header" width="100%" />
+<p align="center"><img src="./chain-divider.svg" width="100%" alt="" /></p>
 
 <!-- ═══════════════════════════  STACK  ═══════════════════════════ -->
 ## Stack tecnológico
@@ -69,7 +63,7 @@ const sahory = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A11CB,50:C471ED,100:6A11CB&height=2&section=header" width="100%" />
+<p align="center"><img src="./chain-divider.svg" width="100%" alt="" /></p>
 
 <!-- ═══════════════════════════  PROYECTOS  ═══════════════════════════ -->
 ## Proyectos destacados
@@ -117,7 +111,7 @@ const sahory = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A11CB,50:C471ED,100:6A11CB&height=2&section=header" width="100%" />
+<p align="center"><img src="./chain-divider.svg" width="100%" alt="" /></p>
 
 <!-- ═══════════════════════════  STATS  ═══════════════════════════ -->
 ## Actividad en GitHub
@@ -125,6 +119,16 @@ const sahory = {
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=SahoryHerrera&show_icons=true&border_radius=12&border_color=6A11CB&bg_color=0D1117&title_color=C471ED&icon_color=A371F7&text_color=C9D1D9&rank_icon=github&include_all_commits=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahoryHerrera&layout=compact&border_radius=12&border_color=6A11CB&bg_color=0D1117&title_color=C471ED&text_color=C9D1D9&langs_count=6" />
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SahoryHerrera/SahoryHerrera/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SahoryHerrera/SahoryHerrera/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man comiéndose mis contribuciones" src="https://raw.githubusercontent.com/SahoryHerrera/SahoryHerrera/output/pacman-contribution-graph.svg">
+  </picture>
 </div>
 
 <!-- ═══════════════════════════  FOOTER  ═══════════════════════════ -->
