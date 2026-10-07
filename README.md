@@ -1,7 +1,7 @@
 <!-- ═══════════════════════════  HEADER  ═══════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:6A11CB,100:C471ED&height=170&section=header&text=Sahory%20Herrera&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Desarrolladora%20de%20Software%20%C2%B7%20.NET%20%C2%B7%20Full%20Stack%20%C2%B7%20Blockchain&descSize=15&descAlignY=64&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:C471ED&height=180&section=header&text=Sahory%20Herrera&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Desarrolladora%20de%20Software%20%C2%B7%20.NET%20%C2%B7%20Full%20Stack%20%C2%B7%20Blockchain&descSize=15&descAlignY=58&animation=fadeIn" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=A371F7&center=true&vCenter=true&width=560&lines=C%23+%C2%B7+ASP.NET+Core+%C2%B7+SQL+Server;APIs+REST+limpias+y+bien+documentadas;Full+Stack+con+React+y+Node.js;Blockchain+%26+Web3+con+Nethereum" alt="Typing SVG" />
 
@@ -128,4 +128,4 @@ const sahory = {
 </div>
 
 <!-- ═══════════════════════════  FOOTER  ═══════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:C471ED,100:6A11CB&height=110&section=footer&reversal=true" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C471ED,100:6A11CB&height=100&section=footer" width="100%" />
